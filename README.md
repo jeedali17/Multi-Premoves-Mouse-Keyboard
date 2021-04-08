@@ -1,3 +1,5 @@
+# This project is not maintained by its author. If you want to contribute, you can either fork this repository and I'll put the link to your repository here, or you can create a pull request, or any other suggestions
+
 # Multi Premoves For Mouse and Keyboard
  Creating unlimited multiple premoves compatible with all Lichess styles of playing (keyboard, mouse, touchscreen)
  
